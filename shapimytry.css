@@ -1,0 +1,45 @@
+header{
+    background-color: red;
+    font-weight: 200;
+    font-size: large;
+    color: darkblue;
+    margin-top: 1%;
+}
+body{
+    background-color: aqua;
+}
+#userinput
+{
+  height: 35px;
+  width: 300px;
+  border-color: black;
+  border: solid 5px;
+  border-radius: 4%;
+}
+#search
+{
+    background-color: red;
+    color: darkblue;
+    height: 40px;
+    width: 200px;
+    border: solid 3px;
+    border-radius: 12px;
+    border-color: pink;
+}
+#random
+{
+    background-color: red;
+    color: darkblue;
+    height: 40px;
+    width: 200px;
+    border: solid 3px;
+    border-radius: 12px;
+    border-color: pink;
+}
+#displayedimage
+{
+    height: 300px;
+    width: 300px;
+    border: solid 10px;
+    border-color: black;
+}
